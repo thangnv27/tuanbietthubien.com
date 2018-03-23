@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Viet AT\n"
+"POT-Creation-Date: 2016-06-11 18:21+0700\n"
+"PO-Revision-Date: 2016-07-09 22:48+0700\n"
+"Last-Translator: \n"
+"Language-Team: PPO VIET NAM <info@ppo.vn>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libs\n"
+
+#: 404.php:8
+msgid "Trang không tồn tại!"
+msgstr "This Page is not found!"
+
+#: archive.php:14
+msgid "Không có bài viết nào được tìm thấy trong chuyên mục này."
+msgstr "No posts found in this category."
+
+#: content-page.php:16
+msgid "Pages:"
+msgstr "Trang:"
+
+#: content-page.php:22 content.php:28
+msgid "<i class=\"fa fa-pencil\"></i> Chỉnh sửa"
+msgstr "<i class=\"fa fa-pencil\"></i> Edit"
+
+#. translators: %s: Name of current post
+#: content.php:36
+msgid "Xem thêm <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Read more <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:39
+msgid "Trang:"
+msgstr "Page:"
+
+#: footer.php:14
+msgid "HỖ TRỢ VÀ CHĂM SÓC KHÁCH HÀNG"
+msgstr "SUPPORT AND CUSTOMER SERVICE"
+
+#: header.php:148
+msgid "Tin tức"
+msgstr "Blog"
+
+#: header.php:154
+msgid "Tìm kiếm..."
+msgstr "Search..."
+
+#: includes/widgets/ads.php:12
+msgid "Ads"
+msgstr "Quảng cáo"
+
+#: search.php:10
+#, php-format
+msgid "Kết quả tìm kiếm cho: \"%s\""
+msgstr "Search Result for: \"%s\""
+
+#: search.php:19
+msgid "Không có kết quả nào được tìm thấy, hãy tìm kiếm bằng một từ khoá khác."
+msgstr "No results were found, please search using a different keyword."
+
+#: single.php:35
+msgid "Bài viết liên quan"
+msgstr "Related posts"
